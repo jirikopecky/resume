@@ -2,7 +2,7 @@
 My Resume written in LaTeX, using awesome Awesome CV template by Byungjin Park - https://github.com/posquit0/Awesome-CV
 
 ## Compiled output
-You can find compiled output at [here](resume.pdf)
+You can find compiled output [here](resume.pdf)
 
 ## Tools Used
 * MiKTeX - https://miktex.org/
