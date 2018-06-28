@@ -7,7 +7,7 @@ You can find compiled output [here](resume.pdf)
 ## Tools Used
 * MiKTeX - https://miktex.org/
   * With synctex Chocolatey package - https://chocolatey.org/packages/synctex
-* VS Code - https://code.visualstudio.com/
+* Visual Studio Code - https://code.visualstudio.com/
 * Visual Studio Code LaTeX Workshop Extension - https://github.com/James-Yu/LaTeX-Workshop
 
 ## License
