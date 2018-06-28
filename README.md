@@ -1,5 +1,5 @@
-## Jiri Kopecky Resume
-My Resume written in LaTeX, using awesome Awesome CV template by Byungjin Park - https://github.com/posquit0/Awesome-CV
+## Resume
+My Resume written in LaTeX, using Awesome CV template by Byungjin Park - https://github.com/posquit0/Awesome-CV
 
 ## Compiled output
 You can find compiled output [here](resume.pdf)
